@@ -1,6 +1,6 @@
 {
   "name": "@mark48evo/vesc-packet-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A VESC Packet Payload Parser based on Stream Transform",
   "author": "Aurimas Niekis <aurimas@niekis.lt> (https://github.com/Mark48Evo)",
   "license": "MIT",
